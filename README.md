@@ -13,9 +13,10 @@ This project demonstrates a layered network security setup using iptables, Snort
 - Analyze security alerts
 
 # Tool Used
-Tool           Purpose
-Kali           Operating System
-Apache2        Web Server for testing firewall rules
-iptables       Linux Firewall Configuration
-Snort          Network Instruction Detection System (IDS)
-Suricata       Advanced Network IDS/IPS Engine
+|Tool        |   Purpose |
+|------------|-----------|
+|Kali        |  Operating System |
+|Apache2     |   Web Server for testing firewall rules |
+|iptables    |   Linux Firewall Configuration |
+|Snort       |  Network Instruction Detection System (IDS) |
+|Suricata    |   Advanced Network IDS/IPS Engine |
